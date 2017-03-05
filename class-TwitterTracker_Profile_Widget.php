@@ -27,7 +27,7 @@ require_once( dirname (__FILE__) . '/class-TwitterTracker_SW_Widget.php' );
 class TwitterTracker_Profile_Widget extends TwitterTracker_SW_Widget {
 
     /** constructor */
-    function TwitterTracker_Profile_Widget() {
+    function __construct() {
 		$name = __( 'Twitter Profile Tracker', 'twitter-tracker' );
 		$options = array( 'description' => __( 'A widget which displays the tweets from a specific Twitter user account.', 'twitter-tracker' ) );
         $this->WP_Widget( 'twitter-profile-tracker', $name, $options );	
