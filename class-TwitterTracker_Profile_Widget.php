@@ -113,4 +113,3 @@ class TwitterTracker_Profile_Widget extends TwitterTracker_SW_Widget {
 
 }
 
-?>

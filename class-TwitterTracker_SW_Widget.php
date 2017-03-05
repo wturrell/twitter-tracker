@@ -111,4 +111,3 @@ class TwitterTracker_SW_Widget extends WP_Widget {
 
 }
 
-?>

@@ -90,6 +90,12 @@ Fixes the plugin to work with Twitter's new API (and new constraints). After ins
 
 ## Change Log
 
+### v3.3.6.1
+
+Sunday 5 March 2017
+
+* BUGFIX: PHP 7 compatibility
+
 ### v3.3.6 
 
 Tuesday 13 August 2013

@@ -431,4 +431,3 @@ function twitter_tracker_profile( $instance )
 
 $GLOBALS[ 'TwitterTracker' ] = new TwitterTracker();
 
-?>
