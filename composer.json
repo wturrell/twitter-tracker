@@ -1,0 +1,11 @@
+{
+        "name"       : "wturrell/twitter-tracker",
+        "description": "WordPress twitter-tracker plugin (fork)",
+        "type"       : "wordpress-plugin",
+        "homepage"   : "https://github.com/wturrell/twitter-tracker",
+        "license"    : "GPL-2.0",
+        "require"    : {
+                "php": ">=7.0.0",
+                "composer/installers": "~1.0"
+        }
+}
